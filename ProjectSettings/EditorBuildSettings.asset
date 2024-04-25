@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: 
+  - enabled: 1
+    path: Assets/Scenes/DifficultySelection.unity
+    guid: fff9c2e07aa314481964e0a53ff485ed
+  - enabled: 1
+    path: Assets/Scenes/PlayerPlayer.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PlayerAI.unity
+    guid: 66ab75d1f83dd4ca1948b3459d37367c
+  - enabled: 1
+    path: Assets/Scenes/PvPControls.unity
+    guid: 54df42b3dac4845e39785d6c984a3a10
+  - enabled: 1
+    path: Assets/Scenes/PvAControls.unity
+    guid: 238be23a46e1749cba6525f6b4e88bd3
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: d1b46ea4166514bfcb8982c02b933772
+  - enabled: 1
+    path: Assets/Scenes/Player1Win.unity
+    guid: da72d1f3a2f5a4efa93376b801bdc97b
+  - enabled: 1
+    path: Assets/Scenes/PlayerAiWin.unity
+    guid: 3d4a546b7ffc74835a383deb70618702
+  - enabled: 1
+    path: Assets/Scenes/Player2Win.unity
+    guid: 4a29c9d5f1ecc40948298bf7af088c9d
+  m_configObjects: {}
